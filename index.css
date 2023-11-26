@@ -20,3 +20,9 @@ footer{
     justify-content: center;
     text-decoration: none;
 }
+footer a{
+    text-align: center;
+}
+footer p{
+    margin-top: 2px;
+}
