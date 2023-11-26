@@ -2,3 +2,7 @@ body{
     color:black;
     background-color: bisque;
 }
+img{
+    wwidth: 150px;
+    height: 150px;
+}
