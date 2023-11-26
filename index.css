@@ -6,5 +6,5 @@ img{
     wwidth: 85%;
     height: 85%;
     border-radius: 15%;
-    border: black;
+    border: 5px solid black;
 }
