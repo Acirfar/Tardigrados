@@ -2,7 +2,7 @@ body{
     color: rgb(54, 47, 36);
     background-color: bisque;
 }
-img{
+header img{
     width: 775px;
     height: 450px;
     border-radius: 15%;
