@@ -24,5 +24,6 @@ footer a{
     text-align: center;
 }
 footer p{
+    text-decoration: none;
     margin-top: 2px;
 }
