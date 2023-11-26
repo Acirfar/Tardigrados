@@ -3,9 +3,9 @@ body{
     background-color: bisque;
 }
 img{
-    wwidth: 85%;
-    height: 85%;
-    border-radius: 15%;
+    width: 575px;
+    height: 350px;
+    border-radius: 150%;
     border: 2.5px solid black;
 }
 .center{
