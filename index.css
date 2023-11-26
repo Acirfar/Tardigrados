@@ -22,6 +22,7 @@ footer{
 }
 footer a{
     text-align: center;
+    text-decoration: none;
 }
 footer p{
     text-decoration: none;
