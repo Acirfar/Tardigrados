@@ -5,7 +5,7 @@ body{
 img{
     width: 575px;
     height: 350px;
-    border-radius: 50%;
+    border-radius: 15%;
     border: 2.5px solid black;
 }
 .center{
